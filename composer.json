@@ -1,0 +1,13 @@
+{
+    "name": "gagneure/filmographie",
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "symfony/var-dumper": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "lepetitglacon",
+            "email": "estebangagneur03@gmail.com"
+        }
+    ]
+}
